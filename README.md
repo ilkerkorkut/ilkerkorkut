@@ -4,7 +4,7 @@
 </p>
 <br>
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerkorkut&layout=compact)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=ilkerkorkut)
 ![image](https://github-readme-streak-stats.herokuapp.com/?user=ilkerkorkut)
 
 <img src="https://activity-graph.herokuapp.com/graph?username=ilkerkorkut&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
